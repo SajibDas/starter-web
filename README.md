@@ -6,3 +6,6 @@ Sajib
 ## Purpose
 
 Sample website with plenty of files for demos
+
+### Copyright
+2021 Git.Sajib
