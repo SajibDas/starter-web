@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-Sajib. Adding a line for rbasing example, then more changes from myfeature branch
+Sajib. Adding a line for rbasing example, then more changes from myfeature branch. Updating for emergency fix after stashing.
 ## Purpose
 
 Sample website with plenty of files for demos
